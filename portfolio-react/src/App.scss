@@ -10,11 +10,34 @@
             display: block;
             width: 60%;
         }
-        .skillImages{
+        .skillImage{
             img{
-                width:10%;
+                width:60%;
                 margin-left:3%!important;
             }
+            .skillImage2{
+                background-color:#4479a1;
+                border-radius: 50%;
+            }
+
+        }
+    }
+    .projects{
+        margin-top:2%;
+        .projectImage1{
+            width:75%;
+            height:400px;
+            background-color: #6b809f;
+            margin:auto;
+            display:block;
+        }
+        .projectImage2{
+            width:75%;
+            margin:auto;
+            display:block;
+            height:800px;
+            background-color: #6b809f;
+
         }
     }
 }
